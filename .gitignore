@@ -1,0 +1,12 @@
+*.exe
+*.whl
+venv
+*.pyc
+staticfiles
+.env
+migrations/
+*.lnk
+*.bat
+*.vbs
+cache/
+log/
